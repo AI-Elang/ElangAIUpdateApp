@@ -1,0 +1,9 @@
+{
+  "version": "1.1.5",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateApp/releases/download/v1.1.5/app-release.apk",
+  "changelog": [
+    "setting updateservice",    "session 90 minutes on page home",    "add loading on button checkout"
+  ]
+}
