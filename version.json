@@ -1,0 +1,9 @@
+{
+  "version": "1.1.8",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateApp/releases/download/v1.1.8/app-release.apk",
+  "changelog": [
+    "add new session 90 minutes on home page",    "update new style show dialog",    "update loading on button checkout",    "NED"
+  ]
+}
