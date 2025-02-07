@@ -1,0 +1,9 @@
+{
+  "version": "1.2.0",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateApp/releases/download/v1.2.0/app-release.apk",
+  "changelog": [
+    "setting new script updateservice",    "add validation fake location"
+  ]
+}
