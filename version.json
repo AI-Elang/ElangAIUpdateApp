@@ -1,0 +1,9 @@
+{
+  "version": "1.2.3",
+  "build_number": 1,
+  "force_update": TRUE,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateApp/releases/download/v1.2.3/app-release.apk",
+  "changelog": [
+    "setting new updateservice script",    "add feature detect fake gps/location"
+  ]
+}
