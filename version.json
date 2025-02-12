@@ -1,0 +1,9 @@
+{
+  "version": "1.2.8",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateApp/releases/download/v1.2.8/app-release.apk",
+  "changelog": [
+    "Add new Feature complaint add,detail and list",    "Add new Feature complaint add,detail and list",    "Add new Feature complaint add,detail and list"
+  ]
+}
