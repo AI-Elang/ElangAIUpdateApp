@@ -1,0 +1,9 @@
+{
+  "version": "1.3.0",
+  "build_number": 1,
+  "force_update": TRUE,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateApp/releases/download/v1.3.0/app-release.apk",
+  "changelog": [
+    "fix bug consume status in detail page"
+  ]
+}
