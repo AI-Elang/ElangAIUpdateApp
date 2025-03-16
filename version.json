@@ -1,0 +1,9 @@
+{
+  "version": "1.5.0",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateApp/releases/download/v1.5.0/app-release.apk",
+  "changelog": [
+    "Fix bug alert trial ",    "Disable lock 50 meter"
+  ]
+}
