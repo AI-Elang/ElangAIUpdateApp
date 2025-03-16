@@ -1,0 +1,9 @@
+{
+  "version": "1.4.9",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateApp/releases/download/v1.4.9/app-release.apk",
+  "changelog": [
+    "Update Caution trial version",    "Dropdown outlet radius 1km ",    "Input max 3 digit SP and voucher"
+  ]
+}
