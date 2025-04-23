@@ -1,0 +1,9 @@
+{
+  "version": "1.5.63",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateApp/releases/download/v1.5.63/app-release.apk",
+  "changelog": [
+    "Desain antarmuka baru yang modern dan elegan",    "Antarmuka pengguna kini lebih responsif dan interaktif",    "Penggunaan penyimpanan dioptimalkan untuk mengurangi ukuran aplikasi",    "Aplikasi kini lebih ringan, lebih cepat, dan lebih nyaman digunakan"
+  ]
+}
