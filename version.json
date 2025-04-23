@@ -1,0 +1,9 @@
+{
+  "version": "1.5.4",
+  "build_number": 1,
+  "force_update": true,
+  "url": "https://github.com/AI-Elang/ElangAIUpdateApp/releases/download/v1.5.4/app-release.apk",
+  "changelog": [
+    "Elegant new design that flows seamlessly with your experience",    "Enhanced responsiveness and engaging interactions",    "Streamlined storage for a lighter, more efficient app",    "Smoother, faster, and delightfully easy to use"
+  ]
+}
